@@ -1,3 +1,3 @@
-### [Advent of Code 2024]([url](https://adventofcode.com/))
+### Advent of Code 2024
 
 (Without AI code tools.)
